@@ -1,1 +1,1 @@
-# Laptop-Shop-Managment-system
+# Laptop-Shop-Management-system
